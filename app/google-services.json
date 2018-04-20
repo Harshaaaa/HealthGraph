@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "643569391618",
+    "firebase_url": "https://healthgraphsteampoweredproject.firebaseio.com",
+    "project_id": "healthgraphsteampoweredproject",
+    "storage_bucket": "healthgraphsteampoweredproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643569391618:android:ca6444e162bd11ee",
+        "android_client_info": {
+          "package_name": "com.project.health_graph_steampowered_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643569391618-l705n1la57lkl47mm4njvdokb3sc6ii3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.health_graph_steampowered_project",
+            "certificate_hash": "66a05f1327f6728a0e902c8b13d1967a0f5cb441"
+          }
+        },
+        {
+          "client_id": "643569391618-slmlti1pnv2j2hma15ic9lvlrdr34f95.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnREOhMbDfiKmg_lUbWs93H2oHSINR9xA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643569391618-slmlti1pnv2j2hma15ic9lvlrdr34f95.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

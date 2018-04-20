@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_78f7d6509b1c67a1663f4db76b3d8186f5fd46e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_1efc83c6bb53c47d6b5b7d22563ad87ac9e8dd13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/glide-3.7.0_4b93375089319ffff3a427d3d026d33610c0f67a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_77b974ba300072f3505c0928f4dd0457021bcd55.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_6587109023fb88e318af0c35b77a17ba5e9ee1ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_6e1c481d81577781efe22883dd3c773e613cd210.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ed87ccdcb70c17d71ba4e6e4ac16afa62d3c49fb">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-11.0.4_126daa190d3f29eac384d96976f3d5258d82ceed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_ef68fde483ecbfe2a276499f179c2d6bfe83ca0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="43e9789bd3240271265ab30ce1be9f224843f5a8">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-11.0.4_4ffb874d230027b3912835947cdd11de5732320e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_d672e66b25e5cb2816369a746a4878ce2bc2ec1e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_e74f46b76905c515b7dea784e1593e19546e99e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_1594ca4bb613c7ce72bb759944f58ec65f1ba2ab.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-11.0.4_8472c24565fe4b32c2accb00719deb2205630813.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-cardview-v7-26.0.0-alpha1_fc3f75081bfe6bdc9cd65e82f455f0e1c4443cc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-11.0.4_ba7e2f063630eff6b513695d5639749c35ac0ea6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-11.0.4_2663aa414f15076831cdfec912057e54d4614fe8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e5b429c146094a612134910688d169ec08deeefb">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-11.0.4_0401fbbae5d01ebf9dc00a3869f4e6a956e9f2c4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_5d40a73067928b70b6651c7b6742c4fb79cf0a72.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.1.4/129874135e6081269ace2312092031558865de12/bolts-android-1.1.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="129874135e6081269ace2312092031558865de12">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/bolts-android-1.1.4_d86ace69c3db51f5e354562bd069775c117bd333.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_0be54a6a01704ac2127d21a9d22a635f3d6b4c5d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0bffdc0bd4f7ca0e27c5bfeef39569f8da00aa26">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-11.0.4_e2e301d43d7e8350e55a91bc8e7b31e9326d46c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_305e45b7339551f7397005061b0eee805daa5aa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_83e8a1e0f993b9a19e946aec43dc80e64813bf01.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0f254ec13d6671680482d2218f01ecf14dfa93e6">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.facebook.android-facebook-android-sdk-4.0.0_05b17333f79097bb186bc04576236e3b361ad1d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f5ff5e3811e8c9485fd27f9052ae4d4d23a22d9d">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-11.0.4_f7a6c7bc6f553a21cd0e4d5672181772c5ee013d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b5b6af36bacf1d812cd3dc45f9dcab9ea471ed91">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-11.0.4_273e680f97b0b3d9fa8bdd119d43223b1bcd5862.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/11.0.4/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e1625e48a836779b5fa141d22e5d05563aaccc9a">
+        <dex dex="/home/apiiit-rkv/AndroidStudioProjects/Health_Graph_SteamPowered_Project/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-11.0.4_f6b00c0bcc75a2624c2be656c11780be003317c7.jar" />
+    </item>
+
+</items>

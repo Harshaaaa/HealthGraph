@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Health_Graph_SteamPowered_Project</string>
+    <string name="btn_logout_from_google">Logout from Google</string>
+    <string name="btn_revoke_access">Revoke Access</string>
+    <string name="title_activity_game__description">Game_Description</string>
+    <string name="title_activity_sigin_inn">SiginInn</string>
+    <string name="support_languages"><b>Support Languages</b></string>
+</resources>

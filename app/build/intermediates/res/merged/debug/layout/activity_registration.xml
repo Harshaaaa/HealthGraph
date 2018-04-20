@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_registration"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#3f8fff"
+    tools:context="com.project.health_graph_steampowered_project.Registration"
+    android:orientation="vertical">
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:background="#FFF"
+        android:layout_gravity="center"
+        android:layout_height="290dp">
+        <ImageView
+            android:layout_width="wrap_content"
+            android:layout_gravity="center|center_horizontal"
+            android:src="@drawable/signupui"
+            android:layout_height="wrap_content"
+            android:id="@+id/imageView" />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="50dp"
+        android:layout_marginLeft="30dp"
+        android:layout_marginRight="30dp"
+        android:layout_height="match_parent">
+        <EditText
+            android:layout_width="match_parent"
+            android:hint="Email Address"
+            android:textColor="#FFF"
+            android:textColorHint="#FFF"
+            android:background="@drawable/white2"
+            android:inputType="textEmailAddress"
+            android:id="@+id/emailid"
+            android:layout_height="45dp" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:id="@+id/passwordd"
+            android:textColorHint="#FFF"
+            android:layout_marginTop="10dp"
+            android:textColor="#FFF"
+            android:background="@drawable/white2"
+            app:passwordToggleEnabled="true"
+            android:layout_height="45dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:textColor="#FFF"
+                android:hint="Password"
+                android:textColorHint="#FFF"
+                android:inputType="textPassword" />
+        </android.support.design.widget.TextInputLayout>
+        <Button
+            android:text="SIGN UP"
+            android:layout_width="match_parent"
+            android:layout_marginTop="25dp"
+            android:onClick="regtofire"
+            android:textColor="#FFF"
+            android:background="@drawable/loginbutton"
+            android:textSize="16sp"
+            android:layout_height="50dp" />
+    </LinearLayout>
+</LinearLayout>

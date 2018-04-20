@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/activity_sign_in"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/log"
+    tools:context="com.project.health_graph_steampowered_project.Sign_In"
+    android:orientation="vertical">
+    <LinearLayout
+        android:layout_marginTop="170dp"
+        android:layout_marginLeft="14dp"
+        android:layout_marginRight="14dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+        <EditText
+            android:layout_width="match_parent"
+            android:hint="Email Address"
+            android:textColor="#FFF"
+            android:textColorHint="#FFF"
+            android:background="@drawable/white"
+            android:inputType="textEmailAddress"
+            android:id="@+id/emailaddress"
+            android:layout_height="45dp" />
+
+        <android.support.design.widget.TextInputLayout
+            android:layout_width="match_parent"
+            android:id="@+id/password"
+            android:textColorHint="#FFF"
+            android:layout_marginTop="10dp"
+            android:textColor="#FFF"
+            android:background="@drawable/white"
+            app:passwordToggleEnabled="true"
+            android:layout_height="45dp">
+
+            <EditText
+                android:layout_width="match_parent"
+                android:layout_height="45dp"
+                android:textColor="#FFF"
+                android:hint="Password"
+                android:textColorHint="#FFF"
+                android:inputType="textPassword" />
+        </android.support.design.widget.TextInputLayout>
+            <TextView
+                android:onClick="LoginTOSteam"
+                android:text="Login"
+                android:textSize="18sp"
+                android:layout_marginTop="35dp"
+                android:textAllCaps="true"
+                android:textColor="#FFF"
+                android:background="@drawable/buttonbackground"
+                android:textStyle="bold"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_width="150dp"
+                android:layout_height="40dp" />
+        <com.google.android.gms.common.SignInButton
+            android:id="@+id/login"
+            android:layout_width="160dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="30dp"
+            android:layout_gravity="center"
+            android:gravity="center"
+            android:text="Signin"
+            android:textSize="18sp"
+            android:textColor="#FFF"
+            android:layout_marginBottom="20dp"/>
+        </LinearLayout>
+    </LinearLayout>
+    <android.support.design.widget.FloatingActionButton
+        android:layout_width="60dp"
+        android:layout_marginLeft="280dp"
+        android:layout_marginTop="50dp"
+        android:onClick="createAcoount"
+        android:src="@drawable/ic_add_black_24dp"
+        android:layout_height="60dp" />
+</LinearLayout>

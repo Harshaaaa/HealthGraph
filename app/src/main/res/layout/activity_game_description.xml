@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#b1b1b1"
+    android:fitsSystemWindows="true"
+    tools:context="com.project.health_graph_steampowered_project.Game_Description">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:id="@+id/name"
+            android:textColor="#163fa7"
+            android:layout_height="wrap_content"
+            android:text="Game Name"
+            android:textSize="16dp" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textColor="#434343"
+            android:id="@+id/short_description"
+            android:text="Short_Description"/>
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="158dp"
+            android:background="#000"
+            android:src="@drawable/loading"
+            android:id="@+id/header_image"/>
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:background="#454545"
+            android:layout_height="2dp">
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:textColor="#163fa7"
+                android:textSize="16dp"
+                android:text="Required Age           : "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:id="@+id/required_age"
+                android:textSize="16dp"
+                android:text="Req_age"/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="150dp"
+                android:layout_marginTop="5dp"
+                android:textColor="#163fa7"
+                android:layout_height="wrap_content"
+                android:textSize="16dp"
+                android:text="Controller Support   :" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/controller_support"
+                android:textSize="16dp"
+                android:text="Con_support" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+            <TextView
+                android:layout_width="150dp"
+                android:layout_marginTop="5dp"
+                android:layout_height="wrap_content"
+                android:textColor="#163fa7"
+                android:textSize="16dp"
+                android:text="Support Languages : "/>
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_marginTop="5dp"
+                android:layout_height="wrap_content"
+                android:id="@+id/support_language"
+                android:textSize="16dp"
+                android:text="Support Languages : "/>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:background="#454545"
+            android:layout_height="2dp">
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:textSize="16dp"
+            android:layout_marginTop="5dp"
+            android:id="@+id/req_text"
+            android:textColor="#163fa7"
+            android:text="Requirements (Recommended) : "
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:orientation="vertical"
+            android:id="@+id/req_layout"
+            android:layout_width="match_parent"
+            android:layout_marginLeft="30dp"
+            android:layout_height="wrap_content">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="50dp"
+                    android:textSize="16dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Mac  : "
+                    android:textColor="#163fa7"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textSize="16dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Mac"
+                    android:id="@+id/tv_mac_req"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="50dp"
+                    android:textSize="16dp"
+                    android:textColor="#163fa7"
+                    android:layout_marginTop="5dp"
+                    android:text="Linux : "
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textSize="16dp"
+                    android:layout_marginTop="5dp"
+                    android:text="Linux"
+                    android:id="@+id/tv_linux_req"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <TextView
+                    android:layout_width="50dp"
+                    android:textSize="16dp"
+                    android:layout_marginTop="5dp"
+                    android:textColor="#163fa7"
+                    android:text="PC    :"
+                    android:layout_height="wrap_content" />
+                <TextView
+                    android:layout_width="match_parent"
+                    android:textSize="16dp"
+                    android:layout_marginTop="5dp"
+                    android:text="PC"
+                    android:id="@+id/tv_pc_req"
+                    android:layout_height="wrap_content" />
+            </LinearLayout>
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:background="#454545"
+            android:layout_height="2dp">
+        </LinearLayout>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:textSize="16dp"
+            android:textColor="#163fa7"
+            android:text="About Game :"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:id="@+id/tv_about_game"
+            android:autoLink="all"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:background="#454545"
+            android:layout_height="2dp">
+        </LinearLayout>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:textSize="16dp"
+            android:textColor="#163fa7"
+            android:text="Description :"
+            android:layout_height="wrap_content" />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_marginTop="5dp"
+            android:id="@+id/tv_descprtion"
+            android:autoLink="all"
+            android:textSize="15dp"
+            android:layout_marginLeft="20dp"
+            android:layout_height="wrap_content" />
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:background="#454545"
+            android:layout_height="2dp">
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_marginTop="5dp"
+                android:layout_width="130dp"
+                android:textSize="16dp"
+                android:textColor="#163fa7"
+                android:text="Published on :"
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_marginTop="5dp"
+                android:layout_width="wrap_content"
+                android:textSize="16dp"
+                android:id="@+id/published"
+                android:autoLink="all"
+                android:text="Published on :"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="horizontal"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_marginTop="5dp"
+                android:layout_width="130dp"
+                android:textSize="16dp"
+                android:textColor="#163fa7"
+                android:text="Support          : "
+                android:layout_height="wrap_content" />
+            <TextView
+                android:layout_marginTop="5dp"
+                android:layout_width="wrap_content"
+                android:textSize="16dp"
+                android:id="@+id/support"
+                android:autoLink="all"
+                android:text="Published on :"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_marginTop="10dp"
+            android:layout_width="match_parent"
+            android:background="#454545"
+            android:layout_height="2dp">
+        </LinearLayout>
+        <TextView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:textSize="16dp"
+            android:textColor="#163fa7"
+            android:text="Screenshots          : "
+            android:layout_height="wrap_content" />
+        <android.support.v7.widget.RecyclerView
+            android:layout_marginTop="5dp"
+            android:layout_width="match_parent"
+            android:id="@+id/recycle"
+            android:nestedScrollingEnabled="false"
+            android:layout_height="wrap_content">
+        </android.support.v7.widget.RecyclerView>
+    </LinearLayout>
+</ScrollView>
